@@ -12,7 +12,6 @@ The project contains the following data:
 
 - `menu_items.csv` - Contains menu item details such as item name, category, and price.
 - `order_details.csv` - Contains order details such as order ID, order date, order time, and item ID.
-- `restaurant_db_data_dictionary.csv` - Contains information about the database columns.
 
 ## SQL Files
 
@@ -86,7 +85,7 @@ Restaurant_Orders/
 ├── data/
 │   ├── menu_items.csv
 │   ├── order_details.csv
-│   └── restaurant_db_data_dictionary.csv
+│
 │
 ├── sql/
 │   ├── create_restaurant_db.sql
